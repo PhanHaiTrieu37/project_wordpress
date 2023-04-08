@@ -1,0 +1,9 @@
+2023-03-22T00:08:07+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 401
+API response: Reconnect to your Pinterest account
+2023-03-22T03:13:23+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 1
+API response: cURL error 6: Could not resolve host: api.pinterest.com
+2023-03-22T03:27:02+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 401
+API response: Reconnect to your Pinterest account
